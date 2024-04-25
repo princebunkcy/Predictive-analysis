@@ -1,5 +1,8 @@
 # Regression 
 
+In this projects machine learning algorithm is applied to the dataset houseprice_data.csv.This dataset contains information about house sales in King County, USA.
+The data has 18 features, such as: number of bedrooms, bathrooms, floors etc., and a target variable: price. Using linear regression (simple or multiple), develop a model to predict the price of a house. After developing the model you should also analyse the results and discuss the effectiveness of the model, outlining the improvements when developing the model.
+
 ## Introduction
 Regression is used to model the relationship between variables. For this task , I imported the necessary libraries and the houseprice dataset .I described the data sets and checked for null values which I couldn’t find I checked for the relationship between the features and targeted column by carrying out a correlation analysis to know how changes in the features are associated with changes in the target variable
 
